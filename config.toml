@@ -5,6 +5,7 @@ title = "Wyvern Power"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
+publishDir = "docs"
 
 # Google Analytics tracking
 googleAnalytics = ""
